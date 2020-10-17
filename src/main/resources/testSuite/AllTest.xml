@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="All Test">
+  <test name="StormsAppHomePageTest">
+    <classes>
+      <class name="practise.AppiumFramework.HomePageTest"/>
+    </classes>
+  </test>
+   <test name="StormsAppLoginPageTest">
+    <classes>
+      <class name="practise.AppiumFramework.LoginPageTest"/>
+    </classes>
+  </test>
+   <test name="StormsAppSignUpPageTest">
+    <classes>
+      <class name="practise.AppiumFramework.SignUpPageTest"/>
+    </classes>
+  </test>
+</suite> 
