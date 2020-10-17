@@ -1,5 +1,5 @@
 # AppiumFramework
-appium framework for running test on. android app
+appium framework for running test on android app
 
 # Summary
 A basic Appium framework for an Android app using Appium, Java, Maven, the PageObject pattern, PageFactory, TestNG
